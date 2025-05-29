@@ -1,0 +1,5 @@
+HTML:
+<form>
+<label for=”usernameInput”>Username:</label><input type=”text” id=”usernameInput”/><br/>
+<label for=”passwordInput”>Password:</label><input type=”password” id=”passwordInput”/><br/>
+</form>
