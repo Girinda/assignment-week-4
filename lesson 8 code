@@ -1,0 +1,4 @@
+document.getElementById(“addition”).innerHTML = addNumbers(10, 7);
+function addNumbers(num1, num2){
+return num1 + num2;
+}
